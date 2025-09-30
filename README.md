@@ -1,9 +1,5 @@
 # Heart Disease Prediction ML Project
 
-## Links
-
-- **GitHub Repository**: [https://github.com/rawann10/Heart-Disease-ML-Project.git]
-
 ## Overview
 
 Complete machine learning pipeline for heart disease prediction using the UCI Heart Disease dataset.
